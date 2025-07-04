@@ -1,10 +1,5 @@
-<h1 align="center">🌸 Hola, soy Michel Rodriguez 🌸</h1>
+<h1 align="center"> Hola, soy Michel Rodriguez </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF9CA8&center=true&vCenter=true&width=435&lines=Desarrolladora+Front-End;Creativa+y+apasionada+por+el+c%C3%B3digo;Amante+de+la+tecnolog%C3%ADa+y+el+aprendizaje;Dise%C3%B1o+%F0%9F%92%8D+l%C3%B3gico+y+responsivo" />
-</p>
-
----
 
 ## ✨ Sobre mí
 
