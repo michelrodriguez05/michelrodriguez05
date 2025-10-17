@@ -3,23 +3,27 @@
 
 ## ✨ Sobre mí
 
-Hola 👋 soy Michel, una **desarrolladora Front-End** en constante aprendizaje. Me encanta crear experiencias visuales, limpias y funcionales usando **HTML, CSS y JavaScript**.  
-Actualmente estoy profundizando en el consumo de **APIs públicas**, diseño responsivo y buenas prácticas de código.
+Hola 👋 soy Michel Rodriguez, una desarrolladora Front-End apasionada por crear experiencias web atractivas, limpias y funcionales. Me motiva transformar ideas en interfaces que conecten con las personas y aporten valor real.
 
-- 💼 Técnica en Operaciones Comerciales y Financieras  
-- 💖 Apasionada por el diseño web con enfoque funcional  
-- 🚀 Siempre aprendiendo y construyendo  
-- 🎯 Objetivo: Convertirme en una desarrolladora web completa y creativa
+💻 Trabajo principalmente con HTML, CSS y JavaScript, enfocándome en la construcción de interfaces dinámicas, diseño responsivo y buenas prácticas de desarrollo.
+🔗 Actualmente me encuentro perfeccionando mis habilidades en el consumo de APIs públicas, optimización de rendimiento y estructuración modular de código.
 
----
+Formación y enfoque:
 
+🎓 Técnica en Operaciones Comerciales y Financieras
+
+💡 Interés por el diseño web funcional y la experiencia de usuario (UX)
+
+🚀 En constante aprendizaje de tecnologías modernas como Node.js, Express y bases de datos SQL
+
+Objetivo: Convertirme en una desarrolladora web completa, combinando creatividad, lógica y diseño para construir soluciones innovadoras en el mundo digital.
 ## 🌟 Proyectos favoritos
 
 | 💻 Proyecto | 💡 Descripción | 🛠️ Tecnologías |
 |------------|----------------|----------------|
 | [🎧 MusiqueSt](https://github.com/michelrodriguez05/musiquest) | SPA que explora música desde la API de Deezer | HTML, CSS, JS, Tailwind |
 | [🛍️ XXOPIN](https://github.com/michelrodriguez05/xxopin) | Tienda online con filtros, carrito y búsqueda | HTML, CSS, JS |
-| [🍞 Rico Mi Pan](https://github.com/michelrodriguez05) | Gestión para panaderías con pedidos e inventario | JavaScript, JSON, Lógica modular |
+| [🍞 Mi Pan](https://github.com/michelrodriguez05) | Gestión para panaderías con pedidos e inventario | JavaScript, JSON, Lógica modular |
 
 ---
 
